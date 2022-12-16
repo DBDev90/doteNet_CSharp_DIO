@@ -1,4 +1,4 @@
-﻿// using fundamentos.models;
+﻿using fundamentos.models;
 
 // Pessoa pessoa = new Pessoa();
 
@@ -93,3 +93,15 @@
 //         Console.WriteLine("Consoante");
 //         break;
 // }
+
+// Calculadora calculadora = new Calculadora();
+
+// calculadora.Soma(5, 5);
+// calculadora.Multiplicacao(5, 5);
+// calculadora.Subtracao(5, 4);
+// calculadora.Divisao(25, 5);
+// calculadora.Potencia(25, 5);
+// calculadora.Seno(30);
+// calculadora.Coseno(30);
+// calculadora.Tangente(30);
+// calculadora.RaizQuadrada(9);
