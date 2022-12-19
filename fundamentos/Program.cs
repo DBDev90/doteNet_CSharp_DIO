@@ -105,3 +105,11 @@
 // calculadora.Coseno(30);
 // calculadora.Tangente(30);
 // calculadora.RaizQuadrada(9);
+
+int numero = 16;
+
+
+for (int contador = 0; contador <= 10; contador++)
+{
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+}
