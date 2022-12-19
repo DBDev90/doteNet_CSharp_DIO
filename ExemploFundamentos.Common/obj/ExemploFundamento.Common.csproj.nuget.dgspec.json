@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso DIO\\doteNet_CSharp_DIO\\fundamentos\\fundamentos.csproj": {}
+    "D:\\Curso DIO\\ExemploFundamento.Common\\ExemploFundamento.Common.csproj": {}
   },
   "projects": {
-    "D:\\Curso DIO\\doteNet_CSharp_DIO\\fundamentos\\fundamentos.csproj": {
+    "D:\\Curso DIO\\ExemploFundamento.Common\\ExemploFundamento.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso DIO\\doteNet_CSharp_DIO\\fundamentos\\fundamentos.csproj",
-        "projectName": "fundamentos",
-        "projectPath": "D:\\Curso DIO\\doteNet_CSharp_DIO\\fundamentos\\fundamentos.csproj",
+        "projectUniqueName": "D:\\Curso DIO\\ExemploFundamento.Common\\ExemploFundamento.Common.csproj",
+        "projectName": "ExemploFundamento.Common",
+        "projectPath": "D:\\Curso DIO\\ExemploFundamento.Common\\ExemploFundamento.Common.csproj",
         "packagesPath": "C:\\Users\\Focus\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso DIO\\doteNet_CSharp_DIO\\fundamentos\\obj\\",
+        "outputPath": "D:\\Curso DIO\\ExemploFundamento.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Focus\\AppData\\Roaming\\NuGet\\NuGet.Config"
