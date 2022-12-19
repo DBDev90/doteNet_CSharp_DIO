@@ -113,3 +113,40 @@
 // {
 //     Console.WriteLine($"{numero} x {contador} = {numero * contador}");
 // }
+
+// int[] arrayInteiros = new int[3];
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 62;
+// arrayInteiros[2] = 50;
+
+// // Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+// // COPIANDO UM ARRAY PARA OUTRO
+// int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+// for (int i = 0; i <= arrayInteiros.Length; i++)
+// {
+//     console.WriteLine($"Posição n {i} = {arrayInteiros[i]}");
+// }
+
+// foreach (int valor in arrayInteiros)
+// {
+//     console.WriteLine(valor);
+// }
+
+// LISTAS
+List<string> listaString = new List<string>();
+listaString.Add("SP", "BA", "MG");
+
+for (int i = 0; i < listaString.Count; i++)
+{
+    Console.WriteLine($"Posição n: {i} - {listaString[i]}");
+}
+
+int contador = 0;
+foreach (string item in listaString)
+{
+    Console.WriteLine($"Posição n: {contador} - {item}");
+    contador++;
+}
