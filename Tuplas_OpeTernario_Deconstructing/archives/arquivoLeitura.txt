@@ -1,0 +1,2 @@
+Linha 1 arquivo leitura
+Linha 2 arquivo leitura
